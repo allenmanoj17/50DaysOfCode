@@ -25,5 +25,5 @@ Saw few concepts in JAVA
    - Constructor Overloading
  - EXAMPLES of the ABOVE
  
- Attended Microsoft AI workshop
+ Attended [Microsoft AI workshop](https://www.linkedin.com/posts/allenmanoj_microsoft-azure-machinelearning-activity-6714541173261897728-7Qr1) 
    - Module 3   
