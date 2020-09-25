@@ -65,6 +65,7 @@ Started to write a blog on Microsoft AI Workshop.
  
  
 ## Day-3 September 25 2020 
+### Today's Progress
 
 Wrote my first blog. <3 [Link](https://medium.com/@allenmanoj17/head-start-in-deep-tech-4e2195db3849)
 
