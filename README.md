@@ -61,3 +61,30 @@ Started to write a blog on Microsoft AI Workshop.
  - [UDACITY](https://classroom.udacity.com/courses/ud1110)
  - [DOCUMENTATION](https://docs.python.org/3/tutorial/index.html)
  - [Programiz](https://www.programiz.com/python-programming)
+ 
+ 
+ 
+## Day-3 September 25 2020 
+
+Wrote my first blog. <3 [Link](https://medium.com/@allenmanoj17/head-start-in-deep-tech-4e2195db3849)
+
+Continued reading the following topics of **document of python**. 
+ - An Informal Introduction to Python
+   - Using Python as a Calculator
+     - Numbers
+     - Strings
+     - Lists
+   - First Steps Towards Programming
+   
+Revised few math concepts for Machine Learning
+ - Vectors
+ - Algebra of vectors
+ - Linear Combination
+ - Linearly dependent and independant
+ - Adding vectors algebraically and graphically
+ - Multiplying a vector by a scalar 
+ 
+### Resources
+ - [DOCUMENTATION](https://docs.python.org/3/tutorial/index.html)
+ - [NPTEL](https://onlinecourses.nptel.ac.in/noc20_ma35/course)
+ - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
