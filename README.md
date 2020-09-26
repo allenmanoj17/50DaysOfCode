@@ -81,7 +81,7 @@ Revised few math concepts for Machine Learning
  - Vectors
  - Algebra of vectors
  - Linear Combination
- - Linearly dependent and independant
+ - Linearly dependent and independent
  - Adding vectors algebraically and graphically
  - Multiplying a vector by a scalar 
  
@@ -89,3 +89,40 @@ Revised few math concepts for Machine Learning
  - [DOCUMENTATION](https://docs.python.org/3/tutorial/index.html)
  - [NPTEL](https://onlinecourses.nptel.ac.in/noc20_ma35/course)
  - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+
+
+## Day-4 September 26 2020 
+### Today's Progress
+
+Started writing a blog.
+Worked on a tribute page using HTML and CSS. 
+[Link to Code](https://github.com/allen17mv/Web-mini-proj/tree/master/Tributepage-Mahatma%20Gandhi)
+[Link to Video](https://www.youtube.com/watch?v=7wLb8rxrR4s&feature=youtu.be)
+Continued reading the following topics of **document of python**. 
+ - More Control Flow Tools
+   - if Statements
+   - for Statements
+   - The range() Function
+   - break and continue Statements, and else Clauses on Loops
+   - pass Statements
+   - Defining Functions
+   - More on Defining Functions
+     - Default Argument Values
+     - Keyword Arguments
+     - Special parameters
+       - Positional-or-Keyword Arguments
+       - Positional-Only Parameters
+       - Keyword-Only Arguments
+       - Function Examples
+       - Recap
+     - Arbitrary Argument Lists
+     - Unpacking Argument Lists
+     - Lambda Expressions
+     - Documentation Strings
+     - Function Annotations
+   - Intermezzo: Coding Style
+
+
+### Resources
+ - [DOCUMENTATION](https://docs.python.org/3/tutorial/index.html)
+ - [FreeCodeCamp](https://www.freecodecamp.org/learn)
