@@ -95,9 +95,13 @@ Revised few math concepts for Machine Learning
 ### Today's Progress
 
 Started writing a blog.
+
 Worked on a tribute page using HTML and CSS. 
+
 [Link to Code](https://github.com/allen17mv/Web-mini-proj/tree/master/Tributepage-Mahatma%20Gandhi)
+
 [Link to Video](https://www.youtube.com/watch?v=7wLb8rxrR4s&feature=youtu.be)
+
 Continued reading the following topics of **document of python**. 
  - More Control Flow Tools
    - if Statements
