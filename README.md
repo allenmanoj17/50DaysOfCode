@@ -94,8 +94,6 @@ Revised few math concepts for Machine Learning
 ## Day-4 September 26 2020 
 ### Today's Progress
 
-Started writing a blog.
-
 Worked on a tribute page using HTML and CSS. 
 
 [Link to Code](https://github.com/allen17mv/Web-mini-proj/tree/master/Tributepage-Mahatma%20Gandhi)
