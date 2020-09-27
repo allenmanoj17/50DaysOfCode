@@ -137,7 +137,7 @@ Revised what I did the last week.
 
 Made a blog on [Introduction to Azure for AI/ML](https://medium.com/@allenmanoj17/azure-for-ai-ml-76b91274c391)
 
-Make a README for my GitHub profile. [Link](https://github.com/allen17mv)
+Made a README for my GitHub profile. [Link](https://github.com/allen17mv)
 
 
 ### Resources
