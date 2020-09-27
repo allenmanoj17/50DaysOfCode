@@ -128,3 +128,17 @@ Continued reading the following topics of **document of python**.
 ### Resources
  - [DOCUMENTATION](https://docs.python.org/3/tutorial/index.html)
  - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+
+## Day-5 September 27 2020 
+### Today's Progress
+
+Revised what I did the last week.
+
+Made a blog on [Introduction to Azure for AI/ML](https://medium.com/@allenmanoj17/azure-for-ai-ml-76b91274c391)
+
+Make a README for my GitHub profile. [Link](https://github.com/allen17mv)
+
+
+### Resources
+Few youtube Videos for building up my README.
