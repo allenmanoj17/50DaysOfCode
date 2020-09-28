@@ -142,3 +142,17 @@ Made a README for my GitHub profile. [Link](https://github.com/allen17mv)
 
 ### Resources
 Few youtube Videos for building up my README.
+
+
+## Day-6 September 28 2020 
+### Today's Progress
+
+Started with GoogleCloudPlatform
+ - A Tour of Qwiklabs and Google Cloud 
+ 
+Revised few HTML & CSS concepts.
+
+### Resources
+[Qwiklabs](https://www.qwiklabs.com/)
+
+[Thinkful](https://courses.thinkful.com/gh-studentv1/unit/1)
