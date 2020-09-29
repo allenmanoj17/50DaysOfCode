@@ -141,7 +141,7 @@ Made a README for my GitHub profile. [Link](https://github.com/allen17mv)
 
 
 ### Resources
-Few youtube Videos for building up my README.
+ - Few youtube Videos for building up my README.
 
 
 ## Day-6 September 28 2020 
@@ -153,6 +153,21 @@ Started with GoogleCloudPlatform
 Revised few HTML & CSS concepts.
 
 ### Resources
-[Qwiklabs](https://www.qwiklabs.com/)
+ - [Qwiklabs](https://www.qwiklabs.com/)
 
-[Thinkful](https://courses.thinkful.com/gh-studentv1/unit/1)
+ - [Thinkful](https://courses.thinkful.com/gh-studentv1/unit/1)
+
+
+## Day-7 September 29 2020 
+### Today's Progress
+
+Continued with GoogleCloudPlatform
+ - Creating a Virtual Machine
+
+Solved few JAVA problems
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+
+ - [NPTEL](https://onlinecourses.nptel.ac.in/noc20_cs58/course)
