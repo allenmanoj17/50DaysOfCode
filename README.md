@@ -186,7 +186,15 @@ Continued with GoogleCloudPlatform
   - print method
   - scanner
    
- Started with SQL
+ Started with SQL with few examples
+  - SELECT
+  - SELECT DISTINCT
+  - WHERE
+  - Operators in WHERE clause 
+  - AND, OR, NOT
+  - ORDER BY
+  - INSERT INTO
+  - IS NULL, IS NOT NULL
 
 ### Resources
 
