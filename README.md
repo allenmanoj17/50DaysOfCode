@@ -171,3 +171,28 @@ Solved few JAVA problems
  - [Qwiklabs](https://www.qwiklabs.com/)
 
  - [NPTEL](https://onlinecourses.nptel.ac.in/noc20_cs58/course)
+
+
+## Day-7 September 29 2020 
+### Today's Progress
+
+Continued with GoogleCloudPlatform
+ - Compute Engine: Qwik Start- Windows
+ - Getting started with Cloud Shell and GCloud
+ 
+ Revised few JAVA concepts
+  - main() method
+  - significance of main()
+  - print method
+  - scanner
+   
+ Started with SQL
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ - [NPTEL](https://onlinecourses.nptel.ac.in/noc20_cs58/course)
+ - [W3Schools](https://www.w3schools.com/sql/)
+ - [Beginners Book](https://beginnersbook.com/2015/04/dbms-tutorial/)
+ - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+ - [Learn SQL](https://learnsql.com/track/sql-from-a-to-z/course/sql-queries/introduction/introduction/relational-databases)
