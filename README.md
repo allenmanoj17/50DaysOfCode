@@ -173,7 +173,7 @@ Solved few JAVA problems
  - [NPTEL](https://onlinecourses.nptel.ac.in/noc20_cs58/course)
 
 
-## Day-7 September 29 2020 
+## Day-8 September 30 2020 
 ### Today's Progress
 
 Continued with GoogleCloudPlatform
