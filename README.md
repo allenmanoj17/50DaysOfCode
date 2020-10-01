@@ -204,3 +204,28 @@ Continued with GoogleCloudPlatform
  - [Beginners Book](https://beginnersbook.com/2015/04/dbms-tutorial/)
  - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
  - [Learn SQL](https://learnsql.com/track/sql-from-a-to-z/course/sql-queries/introduction/introduction/relational-databases)
+
+## Day-9 October 1 2020 
+### Today's Progress
+
+Continued with GoogleCloudPlatform
+ - Kubernetes Engine: Qwik Start
+
+Revised few JAVA concepts
+ - print, println, printf
+ - Command line input
+
+Continued with SQL with examples
+ - UPDATE
+ - DELETE
+ - SELECT TOP, TOP PERCENT
+ - MIN(), MAX()
+ - COUNT(), AVG(), SUM()
+ - LIKE, WILDCARDS
+
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ - [NPTEL](https://onlinecourses.nptel.ac.in/noc20_cs58/course)
+ - [W3Schools](https://www.w3schools.com/sql/)
