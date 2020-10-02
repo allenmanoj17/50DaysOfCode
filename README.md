@@ -229,3 +229,34 @@ Continued with SQL with examples
  - [Qwiklabs](https://www.qwiklabs.com/)
  - [NPTEL](https://onlinecourses.nptel.ac.in/noc20_cs58/course)
  - [W3Schools](https://www.w3schools.com/sql/)
+
+
+## Day-10 October 2 2020 
+### Today's Progress
+
+Continued with GoogleCloudPlatform
+ - Setup Network and HTTP Load Balancer
+   - L4 Network Load Balancer
+   - L7 HTTP Load Balancer
+
+Continued with SQL with examples
+ - IN
+ - BETWEEN, NOT BETWEEN
+   - with IN
+   - TEXT values
+   - DATES
+ - ALIASES
+ - JOINS 
+   - LEFT
+   - RIGHT
+   - FULL(OUTER)
+   - SELF
+ - UNION, UNION ALL
+   - with WHERE
+ - GROUP BY
+ - HAVING
+ 
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ - [W3Schools](https://www.w3schools.com/sql/)
