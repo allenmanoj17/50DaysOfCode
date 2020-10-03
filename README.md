@@ -260,3 +260,43 @@ Continued with SQL with examples
 
  - [Qwiklabs](https://www.qwiklabs.com/)
  - [W3Schools](https://www.w3schools.com/sql/)
+
+
+## Day-11 October 3 2020 
+### Today's Progress
+
+Continued with SQL with examples
+ - EXISTS
+ - ANY, ALL
+ - SELECT INTO
+ - INSERT INTO SELECT
+ - CASE
+ - NULL Functions
+ - Stored Procedure - CREATE PROCEDURE
+   - With one parameter
+   - With multiple parameter
+ - Comments
+   - Single Line
+   - Multi line
+ - Operators
+   - Arithmetic
+   - Bitwise
+   - Comparison
+   - Compound 
+   - Logical
+ - CREATE DATABASE
+ - DROP DATABASE
+ - BACKUP DATABASE
+ - CREATE TABLE
+   - Create table using another table
+ - DROP TABLE
+ - TRUNCATE TABLE
+ - ALTER TABLE
+   - ADD
+   - DROP COLUMN
+   
+Brainstormed for Hackathon
+
+### Resources
+
+ - [W3Schools](https://www.w3schools.com/sql/)
