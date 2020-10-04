@@ -300,3 +300,33 @@ Brainstormed for Hackathon
 ### Resources
 
  - [W3Schools](https://www.w3schools.com/sql/)
+ 
+ 
+
+## Day-12 October 4 2020 
+### Today's Progress
+
+Completed a quest #GoogleCloudPlatform - Getting Started: Create and Manage Cloud Resources
+
+Continued with SQL, with examples
+ - SQL Constraints
+   - SQL Not Null
+   - SQL Unique
+   - SQL Primary Key
+   - SQL Foreign Key
+   - SQL Check
+   - SQL Default
+   - SQL Index
+ - Auto Increment
+ - Dates
+ - Views
+ - Injection
+ - Hosting
+ - SQL Data Types
+ 
+Attended a workshop: Website Portfolio 
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ - [W3Schools](https://www.w3schools.com/sql/)
