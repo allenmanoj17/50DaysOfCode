@@ -339,4 +339,5 @@ Attended a workshop: Website Portfolio
 Brainstormed for Aatmnirbhar Bharat and registered as a team.
 
 Completed the prerequisite module from @devincept
+
 Revised SQL 
