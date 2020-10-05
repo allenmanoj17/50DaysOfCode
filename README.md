@@ -330,3 +330,13 @@ Attended a workshop: Website Portfolio
 
  - [Qwiklabs](https://www.qwiklabs.com/)
  - [W3Schools](https://www.w3schools.com/sql/)
+ 
+
+
+## Day-13 October 5 2020 
+### Today's Progress
+
+Brainstormed for Aatmnirbhar Bharat and registered as a team.
+
+Completed the prerequisite module from @devincept
+Revised SQL 
