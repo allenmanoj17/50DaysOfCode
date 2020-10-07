@@ -324,8 +324,7 @@ Continued with SQL, with examples
  - Hosting
  - SQL Data Types
  
-Attended a workshop: Website Portfolio 
-
+ 
 ### Resources
 
  - [Qwiklabs](https://www.qwiklabs.com/)
@@ -341,3 +340,26 @@ Brainstormed for Aatmnirbhar Bharat and registered as a team.
 Completed the prerequisite module from @devincept
 
 Revised SQL 
+
+
+## Day-14,Day-15 October 6,7 2020
+### Progress
+
+Attended a competition, on ML.
+
+Brainstormed for hackathon.
+
+Continued with #GoogleCloudPlatform
+ - AI Platform: Qwik Start
+ - DataPrep: Qwik Start
+
+Started with Machine Learning of DevIncept
+ - Revised few Machine Learning Concepts
+
+Made Form using HTML and CSS. [LINK](https://www.youtube.com/watch?v=X6FwHoGtQQw)
+
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ - [FreeCodeCamp](https://www.freecodecamp.org/learn)
