@@ -363,3 +363,11 @@ Made Form using HTML and CSS. [LINK](https://www.youtube.com/watch?v=X6FwHoGtQQw
 
  - [Qwiklabs](https://www.qwiklabs.com/)
  - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+
+## Day-16,Day-17 October 8,9 2020
+### Progress
+
+Brainstormed for hackathon.
+Went through some ML concepts
+Revised NumPy
