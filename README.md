@@ -365,9 +365,12 @@ Made Form using HTML and CSS. [LINK](https://www.youtube.com/watch?v=X6FwHoGtQQw
  - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 
-## Day-16,Day-17 October 8,9 2020
+## Day-16,Day-17,Day-18 October 8,9,10 2020
 ### Progress
 
 Brainstormed for hackathon.
 Went through some ML concepts
 Revised NumPy
+Participated on a case study challenge, as a team.
+Participated in a hackathon, as a team.
+Revised Pandas
