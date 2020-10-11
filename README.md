@@ -365,12 +365,20 @@ Made Form using HTML and CSS. [LINK](https://www.youtube.com/watch?v=X6FwHoGtQQw
  - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 
-## Day-16,Day-17,Day-18 October 8,9,10 2020
+## Day-16,Day-17,Day-18,Day-19 October 8,9,10,11 2020
 ### Progress
 
-Brainstormed for hackathon.
-Went through some ML concepts
+Brainstormed for The hackathon.
+
+Revised few ML concepts
+
+Participated in a Data Science Basic competition.
+
 Revised NumPy
-Participated on a case study challenge, as a team.
-Participated in a hackathon, as a team.
-Revised Pandas
+
+Brainstormed for case study.
+
+Participated on a case study challenge, as a team. *Topic: Philips & its falling revenue amid the pandemic.* [Link](https://docs.google.com/presentation/d/1mEGQj2FPKCjyij25isZatQo7d6Ai7Tyqd9yVuqqkg2g/edit?usp=sharing)
+
+Worked on *PROPOSING A WEATHER FORECAST SYSTEM THROUGH WHATSAPP* as a team for a hackathon. [Link](https://youtu.be/hky7cYB0VIE)
+
