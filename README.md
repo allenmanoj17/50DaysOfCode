@@ -382,3 +382,14 @@ Participated on a case study challenge, as a team. *Topic: Philips & its falling
 
 Worked on *PROPOSING A WEATHER FORECAST SYSTEM THROUGH WHATSAPP* as a team for a hackathon. [Link](https://youtu.be/hky7cYB0VIE)
 
+
+## Day-20 October 12 2020
+### Progress
+
+Continued with #GoogleCloudPlatform
+ - DataFlow: Qwik Start - Templates
+ - DataFlow: Qwik Start - Python
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
