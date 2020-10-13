@@ -393,3 +393,20 @@ Continued with #GoogleCloudPlatform
 ### Resources
 
  - [Qwiklabs](https://www.qwiklabs.com/)
+
+
+
+## Day-20 October 12 2020
+### Progress
+
+Continued with #GoogleCloudPlatform
+ - DataProc: Qwik Start - Console
+ - DataProc: Qwik Start - Command line
+
+Revised few ML concepts from devincept
+ - EDA
+ - Feature Scaling
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
