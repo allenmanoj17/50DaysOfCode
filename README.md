@@ -410,3 +410,24 @@ Revised few ML concepts from devincept
 ### Resources
 
  - [Qwiklabs](https://www.qwiklabs.com/)
+
+
+## Day-22 October 14 2020
+### Progress
+
+Continued with #GoogleCloudPlatform
+- Cloud Natural Language API: Qwik Start
+- Google Cloud Speech API: Qwik Start
+- Video Intelligence: Qwik Start
+
+Read about Red Hat entreprise - LINUX OS
+
+Data Visualization and Dashboards with Excel and Cognos
+ - Types of Chart
+   - Line, Pie, Bar, Stacked Bar Charts, Column Charts, Treemaps, Funnel Charts, Scatter Charts, Bubble charts, Sparklines
+ - Excel PivotChart Feature
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ - [Coursera](https://www.coursera.org/)
