@@ -431,3 +431,23 @@ Data Visualization and Dashboards with Excel and Cognos
 
  - [Qwiklabs](https://www.qwiklabs.com/)
  - [Coursera](https://www.coursera.org/)
+
+
+
+## Day-23 October 15 2020
+### Progress
+
+Continued with #GoogleCloudPlatform
+ - Reinforcement Learning: Qwik Start
+ 
+ Data Visualization and Dashboards with Excel and Cognos
+  - Dashboards
+  - Cognos Analytics
+  
+Continued with few math concepts for Machine Learning
+ - Statistics basics
+
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ - [Coursera](https://www.coursera.org/)
