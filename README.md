@@ -451,3 +451,7 @@ Continued with few math concepts for Machine Learning
 
  - [Qwiklabs](https://www.qwiklabs.com/)
  - [Coursera](https://www.coursera.org/)
+ 
+ 
+## Day-24 October 16 2020
+### Progress
