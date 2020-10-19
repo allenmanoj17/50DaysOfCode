@@ -453,5 +453,37 @@ Continued with few math concepts for Machine Learning
  - [Coursera](https://www.coursera.org/)
  
  
-## Day-24 October 16 2020
+## Day-24 to 27 
 ### Progress
+
+Attended few tracks on DevFest India
+
+ - Learn to build an end-to-end predictive modelling pipeline 
+ - Fiery Pokemon on Firebase with Angular Details (only the Firebase Part)
+ - Learn to productionize models though CI/CD design 
+ 
+Attended a workshop - Topics covered - Basics
+
+ - Linux Distros, Shell Tools and Scripting
+ - Version Control (Git)
+ - Debugging and Profiling
+ - Metaprogramming
+ - Containers and Virtual Machines
+ 
+ Drafted a Blog 
+ 
+ Completed the module-2 assignment on Linear Regression by DevIncept
+ 
+ Continued with GoogleCloudPlatform
+  - Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
+  - Introduction to SQL for BigQuery and Cloud SQL
+  - BigQuery: Qwik Start - Console
+  - Troubleshooting Common SQL Errors with BigQuery
+  
+ ### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ - [DevFest](https://www.youtube.com/channel/UCJsZoFDt7rfxPBI1esak8JQ)
+
+
+
