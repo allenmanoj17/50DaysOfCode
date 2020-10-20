@@ -453,7 +453,7 @@ Continued with few math concepts for Machine Learning
  - [Coursera](https://www.coursera.org/)
  
  
-## Day-24 to 27 
+## Day-24 to 28
 ### Progress
 
 Attended few tracks on DevFest India
@@ -479,6 +479,10 @@ Attended a workshop - Topics covered - Basics
   - Introduction to SQL for BigQuery and Cloud SQL
   - BigQuery: Qwik Start - Console
   - Troubleshooting Common SQL Errors with BigQuery
+  - Big Data Analysis to a Slide Presentation
+  - Explore and Create Reports with Data Studio
+  
+Revised few Python Topics
   
  ### Resources
 
