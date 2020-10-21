@@ -488,6 +488,17 @@ Revised few Python Topics
 
  - [Qwiklabs](https://www.qwiklabs.com/)
  - [DevFest](https://www.youtube.com/channel/UCJsZoFDt7rfxPBI1esak8JQ)
+ 
+ 
+## Day-29
+### Progress
 
+Revised few Python topics
 
+Continued with GoogleCloudPlatform
+ - Creating a Data Transformation Pipeline with Cloud Dataprep
+ - Building an IoT Analytics Pipeline on Google Cloud
+ 
+### Resources
 
+ - [Qwiklabs](https://www.qwiklabs.com/)
