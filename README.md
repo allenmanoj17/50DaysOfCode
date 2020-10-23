@@ -453,7 +453,7 @@ Continued with few math concepts for Machine Learning
  - [Coursera](https://www.coursera.org/)
  
  
-## Day-24 to 28
+## Day-24 to 28 oct 16-20
 ### Progress
 
 Attended few tracks on DevFest India
@@ -490,7 +490,7 @@ Revised few Python Topics
  - [DevFest](https://www.youtube.com/channel/UCJsZoFDt7rfxPBI1esak8JQ)
  
  
-## Day-29
+## Day-29 Oct 21
 ### Progress
 
 Revised few Python topics
@@ -499,6 +499,22 @@ Continued with GoogleCloudPlatform
  - Creating a Data Transformation Pipeline with Cloud Dataprep
  - Building an IoT Analytics Pipeline on Google Cloud
  
+### Resources
+
+ - [Qwiklabs](https://www.qwiklabs.com/)
+ 
+ 
+## Day-30,31  Oct 22,23
+### Progress
+
+Revised few Python topics
+
+Continued with GoogleCloudPlatform
+ - ETL Processing on Google Cloud Using Dataflow and BigQuery
+ - Predict Visitor Purchases with a Classification Model in BQML
+ - Predict Housing Prices with Tensorflow and AI Platform
+ - Cloud Composer: Copying BigQuery Tables Across Different Locations
+
 ### Resources
 
  - [Qwiklabs](https://www.qwiklabs.com/)
