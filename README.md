@@ -518,3 +518,14 @@ Continued with GoogleCloudPlatform
 ### Resources
 
  - [Qwiklabs](https://www.qwiklabs.com/)
+ 
+ 
+ 
+## Day-32to35  Oct 24,25,26,27
+### Progress
+
+ Started with Git
+ 
+ Worked with excel and DashBoards
+ 
+ Continued with GoogleCloudPlatform
