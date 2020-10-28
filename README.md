@@ -529,3 +529,11 @@ Continued with GoogleCloudPlatform
  Worked with excel and DashBoards
  
  Continued with GoogleCloudPlatform
+ 
+ 
+ ## Day 36 Oct28
+ ### Progress
+ 
+Continued with GoogleCloudPlatform
+ 
+Worked with excel and DashBoards
