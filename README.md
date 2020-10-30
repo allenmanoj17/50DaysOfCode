@@ -543,3 +543,10 @@ Worked with excel and DashBoards
  ### Progress
  
 Made an interactive DashBoards using excel - [Link](https://www.youtube.com/watch?v=MMF2ZjjK9J8&t=4s)
+
+
+
+## Day 38 Oct30
+### Progress
+
+Continued with GoogleCloudPlatform
