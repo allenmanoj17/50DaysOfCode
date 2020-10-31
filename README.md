@@ -550,3 +550,11 @@ Made an interactive DashBoards using excel - [Link](https://www.youtube.com/watc
 ### Progress
 
 Continued with GoogleCloudPlatform
+
+
+## Day 38 Oct30
+### Progress
+
+Continued with GoogleCloudPlatform
+
+Worked on 'World Happiness Report' dataset
