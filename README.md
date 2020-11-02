@@ -564,3 +564,12 @@ Worked on 'World Happiness Report' dataset
 ### Progress
 
 Continued with GoogleCloudPlatform
+
+
+## Day 41 Nov2
+### Progress
+
+Continued with GoogleCloudPlatform
+
+Attended a workshop on MATLAB 
+ - Basic syntax
