@@ -573,3 +573,23 @@ Continued with GoogleCloudPlatform
 
 Attended a workshop on MATLAB 
  - Basic syntax
+ 
+ 
+## Day 42 Nov3
+### Progress
+
+Continued with GoogleCloudPlatform
+
+Attended a workshop on MATLAB 
+ - Read, Store, Resize, Display, Pixel info about an image
+ - Types of image and conversion of image(grayscale, binary image, RGB)
+ - Math operation on images - imadd, imsubtract, imcomplement, imdivide, immultiply, imabsdiff..
+ - Color channel seperation
+ - Edge Detection - Canny, Sobel, Prewitt
+ - Noise and Filtering
+ 
+## Day 43 Nov4
+### Progress
+
+Continued with GoogleCloudPlatform
+
