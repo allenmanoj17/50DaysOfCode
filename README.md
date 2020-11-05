@@ -593,3 +593,18 @@ Attended a workshop on MATLAB
 
 Continued with GoogleCloudPlatform
 
+Attended a workshop on MATLAB 
+ - Computer Vision using MATLAB and Application of CV
+ - Face Detection using VIOLA JONES ALGORITHM
+ - Text to Speech Conversion
+ - Barcode Detetector
+ - Optical Character Recognition
+ 
+ 
+## Day 44 Nov5
+### Progress
+
+Attended a workshop on MATLAB 
+ - GUI using MATLAB
+ 
+Started working on a project
