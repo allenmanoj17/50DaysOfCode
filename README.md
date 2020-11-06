@@ -608,3 +608,10 @@ Attended a workshop on MATLAB
  - GUI using MATLAB
  
 Started working on a project
+
+## Day 44 Nov5
+### Progress
+
+Started working on a project
+
+Working on goal seek analysis - excel
