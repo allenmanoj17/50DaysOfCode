@@ -609,7 +609,7 @@ Attended a workshop on MATLAB
  
 Started working on a project
 
-## Day 44 Nov5
+## Day 45 Nov6
 ### Progress
 
 Continued working on a project
@@ -617,7 +617,7 @@ Continued working on a project
 Working on goal seek analysis - excel
 
 
-## Day 44 Nov5
+## Day 46 Nov7
 ### Progress
 
 Continued working on a project
