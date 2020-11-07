@@ -612,6 +612,12 @@ Started working on a project
 ## Day 44 Nov5
 ### Progress
 
-Started working on a project
+Continued working on a project
 
 Working on goal seek analysis - excel
+
+
+## Day 44 Nov5
+### Progress
+
+Continued working on a project
