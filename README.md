@@ -621,3 +621,11 @@ Working on goal seek analysis - excel
 ### Progress
 
 Continued working on a project
+
+
+## Day 47 Nov8
+### Progress
+
+Started CS50 web programming with python and javascript 
+ - HTML
+ - CSS, BOOTSTRAP, SASS
