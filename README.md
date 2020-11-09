@@ -629,3 +629,9 @@ Continued working on a project
 Started CS50 web programming with python and javascript 
  - HTML
  - CSS, BOOTSTRAP, SASS
+
+## Day 47 Nov8
+### Progress
+
+Continued CS50 web programming with python and javascript 
+ - Git
