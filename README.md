@@ -630,7 +630,7 @@ Started CS50 web programming with python and javascript
  - HTML
  - CSS, BOOTSTRAP, SASS
 
-## Day 47 Nov8
+## Day 48 Nov9
 ### Progress
 
 Continued CS50 web programming with python and javascript 
