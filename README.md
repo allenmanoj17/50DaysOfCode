@@ -635,3 +635,14 @@ Started CS50 web programming with python and javascript
 
 Continued CS50 web programming with python and javascript 
  - Git
+
+## Day 49 Nov10
+### Progress
+
+Read about Azure
+
+## Day 50 Nov11
+### Progress
+
+Continued CS50 web programming with python and javascript 
+
