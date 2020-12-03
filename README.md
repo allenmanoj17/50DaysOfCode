@@ -1,4 +1,4 @@
-# 100DaysOfCode
+# 50DaysOfCode
 
 ## Day-1 September 23 2020 
 
